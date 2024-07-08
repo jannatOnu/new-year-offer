@@ -41,3 +41,54 @@ body{
         font-weight: 400;
         
     }
+    /* 65% section styles */
+    .second-section{
+       height: 806px;
+        width: 802.9px;
+        
+        margin: 0 auto;
+        margin-top: 90px;
+        
+    }
+    .section-discription{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+ .section-discription h1{
+    color: #FF0000;
+    font-family: Inter;
+    font-size: 88px ;
+    font-weight: 700px;
+
+}
+.h1-div{
+    margin-bottom: 48px;
+}
+ .section-discription p{
+    color: #FF0000;
+    font-family: Inter;
+    font-size: 24px ;
+    font-weight: 500px;
+    
+
+}
+ .section-discription h3{
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px ;
+    font-weight: 700px;
+
+}
+.new-year-container{
+    height: 500px;
+    width: 802.9px;
+    margin-top: 48px;
+    
+}
+.new-year-container img{
+    height: 100%;
+    width: 100%;
+}
