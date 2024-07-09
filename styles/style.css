@@ -92,3 +92,67 @@ body{
     height: 100%;
     width: 100%;
 }
+ /* midnight-party-container styles */
+ .midnight-party-container{
+    height: 600px ;
+    width:1320px ;
+    margin: 0 auto;
+    
+    display: flex;
+    background-image: url(../images/Vectorrr.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+ }
+ .leftside-content{
+    width: 50%;
+    height: 600px;
+    
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 30px; 
+        margin-left: 126px;  
+ }
+ .leftside-content h2{
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+ }
+ .leftside-content p{
+    
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400px;
+    margin-left: 30px;
+ }
+ .h2-mid{
+    margin-bottom: 24px;
+ }
+ #midnight-button{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 360px;
+    
+ }
+ .rightside-content{
+    width: 50%;
+    height: 600px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .rightside-content img{
+    height: 464.66px;
+    width: 319.83px;
+
+ }
